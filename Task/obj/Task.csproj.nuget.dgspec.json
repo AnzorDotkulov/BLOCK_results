@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Professional\\Desktop\\GeekBrains\\BLOCK_results\\Task\\Task.csproj": {}
+    "C:\\Users\\Professional\\Desktop\\GeekBrains\\BLOCK_results\\Task\\Task.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Professional\\Desktop\\GeekBrains\\BLOCK_results\\Task\\Task.csproj": {
+    "C:\\Users\\Professional\\Desktop\\GeekBrains\\BLOCK_results\\Task\\Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Professional\\Desktop\\GeekBrains\\BLOCK_results\\Task\\Task.csproj",
+        "projectUniqueName": "C:\\Users\\Professional\\Desktop\\GeekBrains\\BLOCK_results\\Task\\Task.csproj",
         "projectName": "Task",
-        "projectPath": "c:\\Users\\Professional\\Desktop\\GeekBrains\\BLOCK_results\\Task\\Task.csproj",
+        "projectPath": "C:\\Users\\Professional\\Desktop\\GeekBrains\\BLOCK_results\\Task\\Task.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Professional\\Desktop\\GeekBrains\\BLOCK_results\\Task\\obj\\",
+        "outputPath": "C:\\Users\\Professional\\Desktop\\GeekBrains\\BLOCK_results\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config"

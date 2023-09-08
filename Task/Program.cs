@@ -29,5 +29,5 @@ void PrintArray(string[] array) {
     Console.WriteLine();
 }
 SecondArrayWithIF(array, array2);
-Console.WriteLine("Готовый массив: ");
+Console.WriteLine("Готовый массив из 3-х символов: ");
 PrintArray(array2);
